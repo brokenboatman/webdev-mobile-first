@@ -19,7 +19,6 @@ header {
 }
 
 header h1 {
-    margin: 0px;
     margin-left: 10px;
 }
 
@@ -33,6 +32,7 @@ header nav ul {
     padding: 0px 0px 0px 10px;
     display: flex;
     flex-direction: column;
+    vertical-align:middle;
 }
   
 header nav ul li {
